@@ -1,4 +1,4 @@
-Implementation of paper "Dealing with Out of Distribution Problem in Prediction Tasks"
+Implementation of paper "TCCL: Tabular Continual Contrastive Learning"
 
 To create a new environment:
 
